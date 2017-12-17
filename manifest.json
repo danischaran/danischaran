@@ -13,5 +13,8 @@
         }
     ],
     "theme_color": "#00b3ab",
-    "background_color": "#00b3ab"
+    "background_color": "#00b3ab",
+    "start_url": "http://danischaran.com.br",
+    "display": "standalone",
+    "orientation": "landscape"
 }
