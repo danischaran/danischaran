@@ -838,7 +838,6 @@
 		}
 
 /* Header */
-
 	#header {
 		padding: 3em 2.25em 1.75em 2.25em ;
 	}
@@ -854,7 +853,7 @@
 	justify-content: center;
 }
 .dani-photo img {
-	border: 1px solid #ffffff;
+	border: 1px solid #000000;
 	border-radius: 100px;
 	width: 130px;
 	height: 130px;
