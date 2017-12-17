@@ -77,6 +77,15 @@
 	opacity: .8;
 }
 
+@media screen and (max-width: 480px) {
+			.logo-dani  img {
+				width: 80%;
+			}
+			.dani-photo img {
+				width: 80px;
+				height: 80px;
+			}
+		}
 
 /* Basic */
 
@@ -868,7 +877,6 @@
 }
 
 /* Footer */
-
 	#footer {
 		padding: 2.25em 2.25em 1em 2.25em ;
 	}
