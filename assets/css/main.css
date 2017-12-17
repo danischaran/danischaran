@@ -899,26 +899,26 @@
 
 /* Thumbnails */
 article a {
-	-webkit-transition: all 100ms ease-in;
+	-webkit-transition: all 150ms ease-in;
     -webkit-transform: scale(1); 
-    -ms-transition: all 100ms ease-in;
+    -ms-transition: all 150ms ease-in;
     -ms-transform: scale(1); 
-    -moz-transition: all 100ms ease-in;
+    -moz-transition: all 150ms ease-in;
     -moz-transform: scale(1);
-    transition: all 100ms ease-in;
+    transition: all 150ms ease-in;
     transform: scale(1);
 }
 article a:hover {
 	z-index: 2;
 	box-shadow: inset 0 0 0 2px #000000, inset 0 0 0px 3px rgba(0, 0, 0, 0.15);
-    -webkit-transition: all 100ms ease-in;
-    -webkit-transform: scale(1.05);
-    -ms-transition: all 100ms ease-in;
-    -ms-transform: scale(1.05);   
-    -moz-transition: all 100ms ease-in;
-    -moz-transform: scale(1.05);
-    transition: all 100ms ease-in;
-    transform: scale(1.05);
+    -webkit-transition: all 150ms ease-in;
+    -webkit-transform: scale(1.10);
+    -ms-transition: all 150ms ease-in;
+    -ms-transform: scale(1.10);   
+    -moz-transition: all 150ms ease-in;
+    -moz-transform: scale(1.10);
+    transition: all 150ms ease-in;
+    transform: scale(1.10);
 }
 
 	#thumbnails {
