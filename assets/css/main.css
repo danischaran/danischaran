@@ -928,9 +928,14 @@ article a:hover {
 
 		#thumbnails article {
 			position: relative;
-			width: 50%;
+			width: 33.3%;
 			background: #101010;
 			outline: 0;
+		}
+		@media screen and (max-width: 768px) {
+			#thumbnails article {
+				width: 50%;
+			}
 		}
 
 			#thumbnails article .thumbnail {
