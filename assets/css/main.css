@@ -82,8 +82,7 @@
 				width: 80%;
 			}
 			.dani-photo img {
-				width: 80px;
-				height: 80px;
+				display: none;
 			}
 		}
 
