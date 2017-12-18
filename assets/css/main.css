@@ -886,12 +886,13 @@
 	text-align:center;
 }
 .contact h3 {
-	color: white;
+	color: black;
 /* 	text-transform: uppercase; */
 	font-weight: bold;
-	background-color: black;
+	background-color: transparent;
 	padding: 8px 10px;
 	border-radius: 8px;
+	border: 1px dotted black;
 }
 .contact a {
 	font-weight: bold;
