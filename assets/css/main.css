@@ -871,7 +871,7 @@
 /* Release */
 .release {
 	color: #000000;
-	font-size: 1.3em;
+	font-size: 1em;
 	text-align: center;
 	font-weight: bold;
 }
@@ -891,8 +891,8 @@
 	font-weight: bold;
 	background-color: transparent;
 	padding: 8px 10px;
-	border-radius: 8px;
-	border: 1px dotted black;
+	/* border-radius: 8px;
+	border: 1px dotted black; */
 }
 .contact a {
 	font-weight: bold;
